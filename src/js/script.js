@@ -3,3 +3,5 @@
 multi-line
  comment */
  var myName;
+ myName="Sarvesh";
+ 
