@@ -7,3 +7,5 @@ multi-line
  var b;
  b=myName;
  var a=9;
+ var myFirstName="sarvesh";
+var myLastName="Kumar";
