@@ -58,3 +58,12 @@ const product = 2.0 * 2.5;
 const quotient = 4.4 / 2.0;
 
 const remainder = 11 % 3;
+
+let a1 = 3;
+let b1 = 17;
+let c1 = 12;
+
+// Only change code below this line
+a1 += 12;
+b1 += 9 ;
+c1 += 7;
