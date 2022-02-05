@@ -79,3 +79,5 @@ c1 *= 10;
 a1 /= 12;
 b1 /= 4;
 c1 /= 11;
+
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 
