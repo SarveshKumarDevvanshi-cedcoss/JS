@@ -1,6 +1,1 @@
-// Setup
-const myArray = [["John", 23], ["dog", 3]];
-myArray.shift();
-
-// Only change code below this line
-myArray.unshift(["Paul", 35]);
+const myList = [["Biscuit",10],["Cake",100],["Chocolate",20],["Bread",50],["Cold Drink",80]];
