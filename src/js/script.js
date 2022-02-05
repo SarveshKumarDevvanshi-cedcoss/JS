@@ -4,4 +4,5 @@ multi-line
  comment */
  var myName;
  myName="Sarvesh";
- 
+ var b;
+ b=myName;
