@@ -6,3 +6,4 @@ multi-line
  myName="Sarvesh";
  var b;
  b=myName;
+ var a=9;
