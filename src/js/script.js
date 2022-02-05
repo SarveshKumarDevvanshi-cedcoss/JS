@@ -93,3 +93,7 @@ myStr += "This is the second sentence.";
 
 const myName = "sarvesh";
 const myStr = "My name is "+myName+" and and I am well!";
+
+const someAdjective = "ABC";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
